@@ -1,7 +1,7 @@
 # On-Demand-Traffic-Light-Control
 On Demand Traffic Light Control was a project for the "Embedded Systems Professional" on Udacity, I created it on SEPT/2022
-## Project Overview
-# Project Introduction
+# Project Overview
+## Project Introduction
 
 Traffic lights are signaling devices positioned at road intersections, pedestrian crossings, and other locations to control the flow of traffic.
 
